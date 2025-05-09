@@ -1,0 +1,1 @@
+# spk_metode_fuzzy_tsukamoto_ci
